@@ -16,6 +16,8 @@ If you’re **in a team**, other people can be responsible for parts of this. B
 
 So here’s an outline for a week with mini habits that form a Rails security strategy. (Well, actually it’ll also work similarly for other programming languages.)
 
+And if you’d like, I’ve prepared a free [**5-page guide**](http://bauland42.com/welcome-readers) for each day for you to follow. Click the link in the pinned tweet in my Twitter profile [or here](http://bauland42.com/welcome-readers/) to get it.
+
 ### Monday
 
 Well, it’s Monday, so start your week with something easy! For example, some manual work: Check your software and components. Your software should be up to date. Chances are you already have a standardized process to update your server or it’s managed by the provider. But what about the Ruby gems? Get on the mailing lists if they have one, subscribe to their blog feed or just keep links to their **changelog** and check for updates today in these places.  
@@ -75,4 +77,4 @@ Right, there’s the week.
 
 **Tl;dr:** In summary, it’s a set of mini habits for every workday to achieve a little progress in all the different aspects of security. Of course you can swap the days and do a different habit on Monday. Or you can add your own procedure to it.
 
-PS: If you’d like, I’ve prepared a **5-page guide** for each day for you to follow. Click the link in the pinned tweet in my Twitter profile to get it.
+PS: If you’d like, I’ve prepared a free [**5-page guide**](http://bauland42.com/welcome-readers) for each day for you to follow. Click the link in the pinned tweet in my Twitter profile [or here](http://bauland42.com/welcome-readers/) to get it.
